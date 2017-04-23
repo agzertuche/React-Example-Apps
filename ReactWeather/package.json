@@ -1,5 +1,5 @@
 {
-  "name": "Wheather App",
+  "name": "weatherapp",
   "version": "1.0.0",
   "description": "App to look for weather",
   "main": "index.js",
